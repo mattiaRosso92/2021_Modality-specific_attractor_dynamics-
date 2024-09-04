@@ -1,0 +1,60 @@
+Please send us the following error report. Provide a brief
+description of what you were doing when this problem occurred.
+E-mail or FAX this information to us at:
+    E-mail:  marwan@pik-potsdam.de
+       Fax:  ++49 +331 288 2508
+Thank you for your assistance.
+
+
+--------------------------------------------------
+01-Jun-2020 22:53:15
+Matlab 9.1.0.441655 (R2016b) on MACI64
+  ()
+--------------------------------------------------
+Index exceeds matrix dimensions.
+INTERP1(...,'CUBIC') will change in a future release. Use INTERP1(...,'PCHIP') instead.
+ during ==> jrp:compute
+ method ==> 1
+ input ==> double errorcode ==> 11.001
+ workspace dump ==>
+Name	Size	Bytes	Class
+NX	1  1	8	double
+NY	1  1	8	double
+Nx	1  1	8	double
+Ny	1  1	8	double
+X	2458  2458	6041764	uint8
+action	1  7	14	char
+check_gui	1  3	354	cell
+check_meth	1  10	1160	cell
+check_norm	1  2	236	cell
+ds	3  3	72	double
+e	1  1	8	double
+errcode	1  1	8	double
+flagClass	0  0	0	double
+hCRP	1  1	8	double
+hCtrl	0  0	0	double
+i	7374     1	58992	double
+i_char	1  0	0	double
+i_double	1  9	72	double
+i_int	1  0	0	double
+intclasses	8  1	980	cell
+j	1  3	24	double
+k	1  1	8	double
+m	1  1	8	double
+method	1  1	8	double
+mflag	1  1	8	double
+nogui	1  1	8	double
+nonorm	1  1	8	double
+obj	0  0	0	double
+props	1  1	36904	struct
+t	1  1	8	double
+temp_gui	1  1	8	double
+temp_meth	1  1	8	double
+temp_norm	1  1	8	double
+tx	1  10	1506	cell
+txt_cross	1  6	12	char
+varargin	1  9	40720	cell
+x	2464     1	19712	double
+xscale	2464     1	19712	double
+y	2463     1	19704	double
+yscale	2463     1	19704	double
